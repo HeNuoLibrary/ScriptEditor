@@ -1,0 +1,16 @@
+{
+    "name": "ScriptEditor.Example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:27018a164bb615c4c9112f5219e8fe74"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

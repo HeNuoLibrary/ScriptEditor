@@ -1,0 +1,19 @@
+{
+  "name": "com.henuo.scripteditor",
+  "displayName": "ScriptEditor",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "description": "1. 支持 Project 窗口单/多选文件、文件夹选中进行编码转换\n2. 支持设置为自动编码转换 \n3. 有效的 UTF8 断言 \n4. 自定义脚本模板",
+  "author": {
+    "name": "HeNuo",
+    "email": "HeNuo@heNuo.com",
+    "url": "https://github.com/HeNuoLibrary/"
+  },
+  "samples": [
+    {
+      "displayName": "Example Sample",
+      "description": "Replace this string with your own description of the sample. Delete the Samples folder if not needed.",
+      "path": "Samples~/Example"
+    }
+  ]
+}
